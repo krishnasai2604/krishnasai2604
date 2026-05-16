@@ -44,27 +44,35 @@ Currently at **CVS Health**, building an AI-driven claims risk platform that pro
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasai2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasai2604&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=krishnasai2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=krishnasai2604&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasai2604&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=krishnasai2604&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -76,11 +84,14 @@ Currently at **CVS Health**, building an AI-driven claims risk platform that pro
 - ⚡ Architected **12+ resilient microservices** sustaining **99.9% uptime** on 500K+ daily transactions
 - 🔄 Designed RabbitMQ async event architecture — **85% reduction** in fraud alert latency
 - 🚀 Delivered 25+ RESTful API endpoints; reduced integration errors by **50%**
+- 📊 Built data-heavy dashboards with Angular, React & Material UI — boosting analyst productivity by **30%**
+- 🛡️ Optimized PostgreSQL schemas with advanced indexing ensuring full HIPAA compliance
 
 ### 🏢 Cognizant — Associate Full Stack Developer *(Aug 2022 – Jul 2023)*
 - 🔨 Decomposed 8-year-old monolith → microservices, cutting release cycle by **60%**
 - ⚡ Reduced average query latency by **70%** through ORM restructuring & DB indexing
 - 🔧 Built Jenkins CI/CD pipelines — **75% less release effort**, **40% fewer post-deploy defects**
+- 🔍 Implemented structured logging with correlation IDs — reduced MTTR by **65%**
 
 ### 💻 Cognizant — Programmer Analyst *(Feb 2021 – Aug 2022)*
 - 🖥️ Built responsive frontends with Spring REST APIs — **30% fewer manual data entry errors**
@@ -105,10 +116,7 @@ Currently at **CVS Health**, building an AI-driven claims risk platform that pro
 
 ---
 
-## 📈 Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasai2604&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
@@ -122,9 +130,11 @@ Currently at **CVS Health**, building an AI-driven claims risk platform that pro
   <a href="mailto:tallurikrishnasai676@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/krishna-sai-talluri">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/talluri-krishna-sai-4a7917123">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://krishnasai2604.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
