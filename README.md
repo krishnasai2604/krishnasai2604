@@ -2,7 +2,7 @@
 
 **Full Stack Engineer** · Java · Spring Boot · React · Python · AI Systems · Microservices · AWS
 
-📍 Milwaukee, WI &nbsp;|&nbsp; 📧 tallurikrishnasai676@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/talluri-krishna-sai-4a7917123) &nbsp;|&nbsp; 🌐 [Portfolio](https://krishnasai2604.github.io)
+📍 Milwaukee, WI &nbsp;|&nbsp; 📧 tallurikrishnasai676@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/talluri-krishna-sai-4a7917123) &nbsp;|&nbsp; 🌐 [Portfolio](https://krishnasaitalluriportfolio.netlify.app/)
 
 ---
 
@@ -135,7 +135,7 @@ Currently at **CVS Health**, building an AI-driven claims risk platform that pro
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://krishnasai2604.github.io">
+  <a href="https://krishnasaitalluriportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
