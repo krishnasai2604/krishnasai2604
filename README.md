@@ -2,7 +2,7 @@
 
 **Full Stack Engineer** · Java · Spring Boot · React · Python · AI Systems · Microservices · AWS
 
-📍 Milwaukee, WI &nbsp;|&nbsp; 📧 tallurikrishnasai676@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/talluri-krishna-sai-4a7917123) &nbsp;|&nbsp; 🌐 [Portfolio](https://krishnasaitalluriportfolio.netlify.app/)
+📍Durham, North Carolina &nbsp;|&nbsp; 📧 tallurikrishnasai676@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/talluri-krishna-sai-4a7917123) &nbsp;|&nbsp; 🌐 [Portfolio](https://krishnasaitalluriportfolio.netlify.app/)
 
 ---
 
